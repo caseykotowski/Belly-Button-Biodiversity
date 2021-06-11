@@ -1,0 +1,9 @@
+.body {
+
+    background-color: #72b2bbaf;
+}
+.jumbotron {
+    background-image: url("../images/CountingProbiotics.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
